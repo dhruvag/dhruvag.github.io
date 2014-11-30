@@ -83,7 +83,6 @@ a:after {
     padding: 0;
 }
 
-
 .navbar {
 	text-transform: uppercase;
 	margin-bottom: 0px;
@@ -145,8 +144,12 @@ a:after {
 	padding-top: 70px;
 	padding-bottom: 70px;
 	background-color: #f2f2f2;
+	display: block;
 }
 
+#projects {
+	background-color: #f2f2f2;
+}
 
 #footer {
 	background-color: #2f2f2f;
