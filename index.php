@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+	<head>
+
+		<!-- ==============================================
+		Title and Meta Tags
+		=============================================== -->
+		<meta charset="utf-8">
+		<title>Dhruv Agarwal</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- ==============================================
+		Favicons
+		=============================================== -->
+		<link rel="shortcut icon" href="assets/favicon.png">
+		<link rel="apple-touch-icon" href="assets/favicon.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="assets/favicon.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="assets/favicon.png">
+		
+		<!-- ==============================================
+		CSS
+		=============================================== -->    
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/flexslider.css">
+		<link id="main" rel="stylesheet" href="css/style.css">
+		<link id="theme" rel="stylesheet" href="css/style.css">
+		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
+		
+		
+		<!-- ==============================================
+		Fonts
+		=============================================== -->
+		<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,300,300italic,200,400italic,600,600italic' rel='stylesheet' type='text/css'>
+		
+		<!-- ==============================================
+		JS
+		=============================================== -->
+			
+		<!--[if lt IE 9]>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+		
+		<script type="text/javascript" src="js/libs/modernizr.min.js"></script>
+
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-62515222-2', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+		
+		
+	</head>
+  
+	<body data-spy="scroll" data-target="#main-nav" data-offset="400">
+		<!-- ==============================================
+		MAIN NAV
+		=============================================== -->
+		<div id="main-nav" class="navbar navbar-fixed-top">
+			<div class="container">
+			
+				<div class="navbar-header">
+				
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#site-nav">
+						<span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+					</button>
+					
+					<!-- ======= LOGO (for small screens)========-->
+					<a class="navbar-brand visible-xs scrollto" href="#home">DA</a>
+					
+				</div>
+				
+				<div id="site-nav" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li>
+							<a href="#services" class="scrollto">What I Do</a>
+						</li>
+						<li>
+							<a href="#about" class="scrollto">About Me</a>
+						</li>
+						<li id="logo">
+							<a href="#home" class="scrollto">
+								<h1>D<span>A</span></h1>
+							</a>
+						</li>
+						<li>
+							<a href="#portfolio" class="scrollto">My Works</a>
+						</li>
+						<li>
+							<a href="#contact" class="scrollto">Contact Me</a>
+						</li>
+					</ul>
+				</div><!--End navbar-collapse -->
+				
+			</div><!--End container -->
+			
+		</div><!--End main-nav -->
+		
+		<!-- ==============================================
+		HEADER
+		=============================================== -->
+		<header id="home" class="jumbotron">
+		
+			<div class="container">
+			
+				<div class="row">
+				
+					<div class="col-sm-6 text-col">
+					
+						<h1>Hi, I am Dhruv Agarwal</h1>
+						<p>Designer, Coder & Master Builder</p>
+						
+					</div>
+					
+					<div class="col-sm-6">
+						<div class="imac-frame">
+							<img class="img-responsive img-center" src="assets/imac.png" alt=""/>
+							<div class="imac-screen flexslider">
+								<img class="img-responsive img-center" src="assets/chrome-top.png" alt=""/>
+								<ul class="slides">
+									<li>
+										<img src="assets/projects/ilinc-large2.png" alt=""/>
+									</li>
+
+									<li>
+										<img src="assets/projects/ilmunc-large.png" alt=""/>
+									</li>
+									
+									<li>
+										<img src="assets/projects/youthhack-large.png" alt=""/>
+									</li> 
+									<li>
+										<img src="assets/projects/voicebox-web-large.PNG" alt=""/>
+									</li>
+									<li>
+										<img src="assets/projects/wufc-website-large.png" alt=""/>
+									</li>
+									<li>
+										<img src="assets/projects/istock-large.png" alt=""/>
+									</li>
+									<li>
+										<img src="assets/projects/smingle-combined.png" alt=""/>
+									</li>
+								
+								</ul>
+							</div>
+						</div>
+					</div>
+				
+				</div>
+			
+			</div>
+			
+		</header><!--End header -->
+			
+		<!-- ==============================================
+		SERVICES
+		=============================================== -->
+		<section id="services" class="white-bg padding-top-bottom">
+		
+			<div class="container">
+				
+				<header class="section-header text-center">
+				
+					<h1 class="scrollimation scale-in">What I Do</h1>
+					<p>I am an overall geek, interested in everything design and code. <br/>I like making stuff that makes people happy! </p>
+				
+				</header>
+			
+					<div class="row services">
+						
+					<div class="col-md-3 col-sm-6 item scrollimation fade-up d2">
+					
+						<div class="icon">
+							<img class="img-responsive img-center" src="" alt="" />
+						</div>
+						
+						<h2></h2>
+						<p></p>
+					
+					</div> 
+
+					<div class="col-md-3 col-sm-6 item scrollimation fade-up d1">
+					
+						<div class="icon">
+							<img class="img-responsive img-center" src="assets/service2.png" alt="" />
+						</div>
+						
+						<h2>Web Development</h2>
+						<p>I can get a new website up and running,
+							within hours. HTML5 and CSS are my strong suits while I am busy mastering Javascript and jQuery. Currently dabbling with the Node.js and Ruby on Rails frameworks.</p>
+					
+					</div>
+
+					<div class="col-md-3 col-sm-6 item scrollimation fade-up">
+					
+						<div class="icon">
+							<img class="img-responsive img-center" src="assets/service1.png" alt="" />
+						</div>
+						
+						<h2>Mobile App Development</h2>
+						<p>I have experience with building both iOS and Android mobile applications. Having built native Android and iOS application, I am currently working on developing a cross platform mobile application.</p>
+					
+					</div>
+					
+					<div class="col-md-3 col-sm-6 item scrollimation fade-up d3">
+					
+						<div class="icon">
+							<img class="img-responsive img-center" src="" alt="" />
+						</div>
+						
+						<h2></h2>
+						<p></p>
+					
+					</div>
+				
+				</div>
+			
+			</div>
+		
+		</section>
+		
+		<!-- ==============================================
+		MOST RECENT PROJECT
+		=============================================== -->	
+		<section id="feat-project" class="gray-bg padding-top">
+		
+			<div class="container">
+			
+				<header class="section-header text-center">
+				
+					<h1 class="scrollimation scale-in">My Most Recent Project</h1>
+					<h3>VoiceBox</h3><p>A Chrome extension that puts the reigns of email into the hands of the user by making their Gmail inbox completely voice-activated!</p>
+				
+				</header>
+				
+				<div class="scrollimation fade-up">
+					<img class="img-responsive img-center" src="assets/chrome-top.png" alt="" />
+					
+					<div class="img-wrapper">
+						
+						<!-- <img class="img-responsive img-center" src="assets/featured.jpg" alt="" /> -->
+
+						<iframe width="800" height="600" src="https://www.youtube.com/embed/tLIYy2XFQPs?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+						
+						<!-- <p class="text-center on-hover"><a class="btn btn-meflat icon-right" href="#external">Visit Website<i class="fa fa-arrow-right"></i></a></p>-->
+					
+					</div>
+				</div>
+				
+			</div>
+		
+		</section>
+		
+		
+		<!-- ==============================================
+		ABOUT
+		=============================================== -->	
+		<section id="about" class="dark-bg light-typo padding-top-bottom">
+		
+			<div class="container">
+			
+				<header class="section-header text-center">
+				
+					<h1 class="scrollimation scale-in">About Me</h1>
+				
+				</header>
+				
+				<div class="row">
+				
+					<div class="col-sm-8 col-sm-offset-2">
+					
+						<img class="img-responsive img-center img-circle scrollimation fade-left" src="assets/myface2.png" alt="" />
+				
+						<p class="text-center scrollimation fade-in">I am Dhruv Agarwal, an eighteen year old sophomore studying Computer Science at the University of Pennsylvania. I have a passion for creating challenging, intuitive and beautiful products. <br/><br/>Creating is not just a job for me, it's a passion. </p>
+					
+					</div>
+					
+				</div>
+					
+				<p class="text-center"><a class="btn btn-meflat white icon-left" target="_blank" href="http://www.github.com/dhruvag"><i class="fa fa-github"></i>Github</a>      <a class="btn btn-meflat white icon-left" target="_blank" href="./assets/resume.pdf"><i class="fa fa-file-text"></i>Resume</a>
+				</p>
+				
+			</div>
+		
+		</section>
+		<!-- ==============================================
+		SKILLS
+		=============================================== -->	
+		<section id="skills" class="white-bg">
+		
+			<div class="container">
+			
+				<div class="row skills">
+					
+					<h1 class="text-center scrollimation fade-in">I Got the Skills</h1>
+					
+					<div class="col-sm-6 col-md-3 text-center">
+						<span class="chart" data-percent="70"><span class="percent">70</span></span>
+						<h2 class="text-center">Java</h2>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span class="chart" data-percent="85"><span class="percent">85</span></span>
+						<h2 class="text-center">HTML / CSS</h2>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span class="chart" data-percent="50"><span class="percent">50</span></span>
+						<h2 class="text-center">Javascript and jQuery</h2>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span class="chart" data-percent="30"><span class="percent">30</span></span>
+						<h2 class="text-center">Python</h2>
+					</div>
+					
+				</div><!--End row -->
+
+				<div class="row skills">
+					
+					<div class="col-sm-6 col-md-3 text-center">
+						<span class="chart" data-percent="45"><span class="percent">45</span></span>
+						<h2 class="text-center">Android</h2>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span class="chart" data-percent="15"><span class="percent">15</span></span>
+						<h2 class="text-center">iOS</h2>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span class="chart" data-percent="40"><span class="percent">40</span></span>
+						<h2 class="text-center">Ocaml</h2>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span class="chart" data-percent="60"><span class="percent">60</span></span>
+						<h2 class="text-center">Git</h2>
+					</div>
+					
+				</div><!--End row -->
+			
+			</div>
+		
+		
+		</section>
+ 		<!-- ==============================================
+		PORTFOLIO
+		=============================================== -->	
+		<section id="portfolio" class="gray-bg padding-top-bottom">
+			
+			<div class="container">
+			
+				<header class="section-header text-center">
+				
+					<h1 class="scrollimation scale-in">My Works</h1>
+					<p>I've worked on a few projects both independantly and professionally.<br/>Here's some of the work that I am really proud of!</p>
+				
+				</header>
+				
+				<!--==== Portfolio Filters ====-->
+				<div id="filter-works">
+					<ul>
+						<li class="active scrollimation fade-right d1">
+							<a href="#" data-filter="*">All</a>
+						</li>
+						<li class="scrollimation fade-right">
+							<a href="#" data-filter=".websites">Websites</a>
+						</li>
+						<li class="scrollimation fade-left">
+							<a href="#" data-filter=".mobile-apps">Mobile Apps</a>
+						</li>
+						<li class="scrollimation fade-left d1">
+							<a href="#" data-filter=".chrome-extensions">Chrome Extensions</a>
+						</li>
+					</ul>
+				</div><!--End portfolio filters -->
+				
+			</div><!--End portfolio header -->
+			
+			<div class="container masonry-wrapper scrollimation fade-in">
+			
+				<div id="projects-container">
+				
+					<!-- ==============================================
+					SINGLE PROJECT ITEM
+					=============================================== -->	
+					<article class="project-item chrome-extensions">
+						
+						<img class="img-responsive project-image" src="assets/projects/voicebox-web.PNG"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">VoiceBox</h2><!--Project Title -->
+							<p>Chrome Extensions</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" 
+							data-category="Chrome Extensions" 
+							data-date="November 2014" 
+							data-client="Top 20 - HackPrinceton Fall 2014"
+							data-descr="A Chrome extension that puts the reigns of email into the hands of the user by making their Gmail inbox completely voice-activated." 
+							data-images="assets/projects/voicebox-web-large.PNG"
+						>
+						<iframe width="750" height="563" src="//www.youtube.com/embed/tLIYy2XFQPs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+							<p>Using natural language processing to perform voice recognition, we implemented all of the typically used Gmail commands responsive to verbal cues in order to make checking emails much less of a chore. Using just verbal cues, you can navigate through labels, search for emails, and have Gmail read out a preview of your new emails, among other things. This is ideal for users who aim to use their time efficiently managing emails on-the-go.</p>
+							
+							<p class="text-right"><a class="btn btn-meflat icon-right" href="http://challengepost.com/software/voicebox">View on ChallengePost<i class="fa fa-arrow-right"></i></a></p><p class="text-right"><a class="btn btn-meflat icon-right" href="https://github.com/dhruvag/VoiceBox">View on GitHub<i class="fa fa-arrow-right"></i></a></p>
+						</div>
+						
+					</article>
+					<!-- ==============================================
+					END PROJECT ITEM
+					=============================================== -->		
+
+					<!-- ==============================================
+					SINGLE PROJECT ITEM
+					=============================================== -->	
+					<article class="project-item websites">
+						
+						<img class="img-responsive project-image" src="assets/projects/ilinc-large.PNG"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Ivy League Networking Conference</h2><!--Project Title -->
+							<p>Web Development</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" 
+							data-category="Web Development" 
+							data-date="December 2014" 
+							data-descr="Developing the website for Ivy league International Newtorking Conference" 
+							data-images="./assets/projects/ilinc-large2.png" >
+						
+						<p>Designed the website for the largest netwroking conference for international students in the Ivy Leaue. The wesbsite was developed using Wordpress with design elements developed using Adobe Photopshop and Illustrator. Also carried out the design for the marketing and promotioal material using Adobe InDesign.</p>
+							
+						<p class="text-right"><a class="btn btn-meflat icon-right" href="http://ilinc.org">Visit Website<i class="fa fa-arrow-right"></i></a></p><p class="text-right"><a class="btn btn-meflat icon-right" href="http://ilinc.org/brochure">Look at Brochure Design<i class="fa fa-arrow-right"></i></a></p>
+						</div>
+						
+					</article>
+					<!-- ==============================================
+					END PROJECT ITEM
+					=============================================== -->
+
+					<!-- ==============================================
+					SINGLE PROJECT ITEM
+					=============================================== -->	
+					<article class="project-item websites">
+						
+						<img class="img-responsive project-image" src="assets/projects/ilmunc-large.png"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Ivy League Model UN Conference India</h2><!--Project Title -->
+							<p>Web Development</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" 
+							data-category="Web Development" 
+							data-date="March 2015" 
+							data-descr="Developing the website for Ivy League Model UN Conference India" 
+							data-images="./assets/projects/ilmunc-large.png" >
+						
+						<p>Designed the website for the premiere international Model UN conference in India. The wesbsite was developed using th Foundation framework with some design elements developed using Adobe Photopshop and Illustrator. I also had to liaise with a team of designers to reproduce design mockup and render them into webpages</p>
+							
+						<p class="text-right"><a class="btn btn-meflat icon-right" href="http://ilmunc-india.com/web-new/">Visit Website<i class="fa fa-arrow-right"></i></a></p>
+						</div>
+						
+					</article>
+					<!-- ==============================================
+					END PROJECT ITEM
+					=============================================== -->
+
+
+					<!-- ==============================================
+					SINGLE PROJECT ITEM
+					=============================================== -->	
+					<article class="project-item websites">
+						
+						<img class="img-responsive project-image" src="assets/projects/istock.PNG"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">iStockAlerts</h2><!--Project Title -->
+							<p>Web Development</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" 
+							data-category="Web Development" 
+							data-date="February 2015" 
+							data-descr="Revamping the wesbite for a financial and stock management startup" 
+							data-images="assets/projects/istock-large.png" >
+						
+						<p>Worked with a start-up to redesign and re-launch their website. Had to liaise with the team to understand their requirements to design a website meeting their needs of branding and sponsorship. Also conducted user training on future modifications to the website.</p>
+							
+						<p class="text-right"><a class="btn btn-meflat icon-right" href="http://istockalerts.com">Visit Website<i class="fa fa-arrow-right"></i></a></p>
+						</div>
+						
+					</article>
+					<!-- ==============================================
+					END PROJECT ITEM
+					=============================================== -->	
+
+					<!-- ==============================================
+					SINGLE PROJECT ITEM
+					=============================================== -->	
+					<article class="project-item websites">
+						
+						<img class="img-responsive project-image" src="assets/projects/wufc-website.PNG"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Wharton Finance Club</h2><!--Project Title -->
+							<p>Web Development</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" 
+							data-category="Web Development" 
+							data-date="January 2015" 
+							data-descr="Revamping the wesbite for the leading finance club at the Wharton School, University of Pennsylvania" 
+							data-images="assets/projects/wufc-website-large.png" >
+						
+						<p>Performed the website redesign for the largest undergraduate club in the Wharton School. Led a team of 4 web developers and had to liase with the club's executive board to finialize design elements and website layout. The website was develped in Wordpress.</p>
+							
+						<p class="text-right"><a class="btn btn-meflat icon-right" href="http://new.whartonfinanceclub.com">Visit Website<i class="fa fa-arrow-right"></i></a></p>
+						</div>
+						
+					</article>
+					<!-- ==============================================
+					END PROJECT ITEM
+					=============================================== -->
+
+					<!-- ==============================================
+					SINGLE PROJECT ITEM
+					=============================================== -->	
+					<article class="project-item websites">
+						
+						<img class="img-responsive project-image" src="assets/projects/youthhack.PNG"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">YouthHack</h2><!--Project Title -->
+							<p>Web Development</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" 
+							data-category="Web Development" 
+							data-date="January 2015" 
+							data-descr="Developing the website for the Philly chapter of the YouthHack hackathon" 
+							data-images="assets/projects/youthhack-large.png" >
+						
+						<p>Worked in tandem with the CEO and the CMO of YouthHack, a startup aimed at cultivating the startup and hackathon culture amongst high-schoolers to develop website mockups for the inaugral chapter of YouthHack in Philadelphia. The mockup was first created in Photoshop and then realized in code using the Bootstrap framework.</p>
+							
+						<p class="text-right"><a class="btn btn-meflat icon-right" href="http://dhruvagarwal.me/Youthhack">Visit Website Mockup<i class="fa fa-arrow-right"></i></a></p>
+						</div>
+						
+					</article>
+					<!-- ==============================================
+					END PROJECT ITEM
+					=============================================== -->
+
+					<!-- ==============================================
+					SINGLE PROJECT ITEM
+					=============================================== -->	
+					<article class="project-item mobile-apps">
+						
+						<img class="img-responsive project-image" src="assets/projects/smingle-combined.png"  alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Smingle</h2><!--Project Title -->
+							<p>Mobile Application</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" 
+							data-category="Mobile Application" 
+							data-date="September 2014" 
+							data-descr="A new way to meet people and add their contact information" 
+							data-images="assets/projects/smingle-large.png" >
+						
+						<p>A cross-platform app that allows you to quickly add contacts with their photos. Every time a person is adding their information, the camera takes a photo and saves it along with the contact. Built on both the Andorid and iOS platforms.</p>
+							
+						<p class="text-right"><a class="btn btn-meflat icon-right" href="http://challengepost.com/software/Smingle">View on ChallengePost<i class="fa fa-arrow-right"></i></a></p><p class="text-right"><a class="btn btn-meflat icon-right" href="https://github.com/dhruvag/PennAppsX">View on GitHub<i class="fa fa-arrow-right"></i></a></p>
+						</div>
+						
+					</article>
+					<!-- ==============================================
+					END PROJECT ITEM
+					=============================================== -->
+
+				</div><!-- End projects --> 
+				
+			</div><!-- End container --> 
+			
+			<!-- ==============================================
+			PROJECT PREVIEW MODAL (Do not alter this markup)
+			=============================================== -->	
+			<div id="project-modal" class="modal fade" data-backdrop="static">
+			
+				<div class="modal-dialog">
+				
+					<div class="modal-content">
+					
+						<div class="modal-header">
+						
+							<div class="container">
+							
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								
+								<h1 id="hdr-title" class="text-center"></h1>
+								<div class="row">
+									<div class="col-md-8 col-md-offset-2">
+										<div class="image-wrapper">
+											<img class="img-responsive" src="assets/chrome.png" alt="">
+											<div class="loader"></div>
+											<div class="screen"></div>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+						</div>
+						
+						<div class="modal-body">
+							<div class="container">
+								<div class="row">
+									<div id="project-sidebar" class="col-md-3">
+										<h2 id="sdbr-title"></h2>
+										<p id="sdbr-category"></p>
+										<p id="sdbr-date"></p>
+										<p id="sdbr-client"></p>
+										<p id="sdbr-link"><a href="#link" target="_blank"></a></p>
+										<p id="sdbr-descr"></p>
+									</div>
+									<div id="project-content" class="col-md-8 col-md-offset-1">
+									</div>
+								</div>
+								
+							</div>
+						</div><!-- End modal-body -->
+						
+					</div><!-- End modal-content -->
+					
+				</div><!-- End modal-dialog -->
+				
+			</div><!-- End modal -->
+			
+		</section>
+		
+		<!-- ==============================================
+		CONTACT
+		=============================================== -->	
+		<section id="contact" class="dark-bg light-typo padding-top">
+		
+			<div class="container">
+			
+				<header class="section-header text-center">
+				
+					<h1 class="scrollimation scale-in">Drop Me a Line</h1>
+					<p>Can't wait for the next exciting project! It could be yours?</p>
+				
+				</header>
+				
+				<form  id="contact-form" class="bl_form text-center" action="contact.php" method="post" novalidate>
+					<span class="field-wrap scrollimation fade-right">
+						<label class="control-label" for="contact-name">Name</label>
+						<input id="contact-name" name="contactName" type="text" class="label_better requiredField" data-new-placeholder="Name" placeholder="Name" data-error-empty="*Enter your name">
+					</span>
+					<span class="field-wrap scrollimation fade-in">
+						<label class="control-label" for="contact-mail">Email</label>
+						<input id="contact-mail" name="email" type="email" class="label_better requiredField" data-new-placeholder="Email Address" placeholder="Email Address" data-error-empty="*Enter your email" data-error-invalid="x Invalid email address">
+					</span>
+					<span class="field-wrap scrollimation fade-left">
+						<label class="control-label" for="contact-message">Message</label>
+						<textarea id="contact-message" name="comments" rows="1" class="label_better requiredField" data-new-placeholder="Message" placeholder="Message" data-error-empty="*Enter your message"></textarea>
+					</span>
+					
+					<p class="text-center"><a href="mailto:dhruvag@seas.upenn.edu"><button  name="submit" type="submit" class="btn btn-meflat icon-left" data-error-message="Error!" data-sending-message="Sending..." data-ok-message="Message Sent"><i class="fa fa-envelope fa-fw"></i>Send Message</button></a></p>
+					<input type="hidden" name="submitted" id="submitted" value="true" />
+					
+				</form>
+				
+			</div>
+		
+		</section>
+		
+		<!-- ==============================================
+		FOOTER
+		=============================================== -->	
+		
+		<footer id="main-footer" class="dark-bg light-typo">
+		
+			<div class="container">
+			
+				<hr>
+				
+				<div class="row">
+				
+					<div class="col-sm-6">
+						<ul class="social-links">
+							<li class="scrollimation fade-right d4"><a href="htp://www.twitter.com/thedhruvagarwal"><i class="fa fa-twitter fa-fw"></i></a></li>
+							<li class="scrollimation fade-right d3"><a href="http://www.facebook.com/dhruv1996"><i class="fa fa-facebook fa-fw"></i></a></li>
+							<li class="scrollimation fade-right"><a href="http://www.linkedin.com/pub/in/dhruvag"><i class="fa fa-linkedin fa-fw"></i></a></li>
+						</ul>
+					</div>
+					
+					<div class="col-sm-6 text-right scrollimation fade-in">
+						<p>&copy;2014 Dhruv Agarwal</p>
+					</div>
+					
+				</div>
+				
+			</div>
+			
+		</footer>
+		
+		
+		<!-- ==============================================
+		SCRIPTS
+		=============================================== -->	
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="js/libs/jquery-1.9.1.min.js">\x3C/script>')</script>
+		
+		<script src="js/libs/bootstrap.min.js"></script>
+		<script src='js/jquery.easing.1.3.min.js'></script>
+		<script src='js/jquery.scrollto.js'></script>
+		<script src="js/jquery.fittext.js"></script>
+		<script src='js/jquery.flexslider.min.js'></script>
+		<script src='js/jquery.masonry.js'></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/jquery.label_better.min.js"></script>
+		<script src="js/jquery.easypiechart.js"></script>
+		<script src="js/contact.js"></script>
+		<script src="js/js.js"></script>
+		
+		
+	</body>
+	
+</html>
