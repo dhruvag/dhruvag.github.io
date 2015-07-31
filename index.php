@@ -714,7 +714,7 @@
 					</div>
 					
 					<div class="col-sm-6 text-right scrollimation fade-in">
-						<p>&copy;2014 Dhruv Agarwal</p>
+						<p>&copy;2015 Dhruv Agarwal</p>
 					</div>
 					
 				</div>
